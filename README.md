@@ -1,10 +1,10 @@
 ![Langage_github]
 
 <!-- <details open> -->
-<summary align='left'> <h2>42 Cursus</h2> </summary>
+<summary align='left'> <h1>42 Cursus</h1> </summary>
 
 <!-- <details open> -->
-<summary align='left'> <h3>42 Common core</h3> </summary>
+<h2>42 Common core</h2>
 
 | Name                              | Language     |
 | --------------------------------- | ------------ |
@@ -21,31 +21,20 @@
 | [Inception][42-Inception]         | Docker       |
 | ft_transcendence                  | React/Nestjs |
 
-<!-- </details> -->
+<h2> 42 Post Common Core </h2>
 
-<!-- <details open> -->
-<summary align='left'> <h3> 42 Post Common Core </h3> </summary>
-
-<!-- <details open> -->
-<summary> <h3>42 Cybersecurity</h3> </summary>
+<h3>42 Cybersecurity</h3>
 
 | Name                         | Language |
 | ---------------------------- | -------- |
 | [SnowCrash][42-SnowCrash] | Multiple |
 | [Rainfall][42-rainfall]      | Multiple |
 
-<!-- </details> -->
-
-<!-- <details open> -->
-<summary> <h3>42 Other</h3> </summary>
+<h3>42 Other</h3>
 
 | Name                | Language |
 | ------------------- | -------- |
 | [Libasm][42-Libasm] | Assembly |
-
-<!-- </details> -->
-<!-- </details> -->
-<!-- </details> -->
 
 <!-- Lien repo github --->
 
