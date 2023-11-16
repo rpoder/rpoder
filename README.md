@@ -17,7 +17,6 @@
 | [Minishell][42-Minishell]         | C            |
 | [Modules_CPP][42-CPP_Modules]     | C++          |
 | [MiniRT][42-miniRT]               | C            |
-| [ft_containers][42-ft_containers] | C++          |
 | [ft_irc][42-ft_irc]               | C++          |
 | [Inception][42-Inception]         | Docker       |
 | ft_transcendence                  | React/Nestjs |
