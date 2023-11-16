@@ -31,7 +31,7 @@
 
 | Name                         | Language |
 | ---------------------------- | -------- |
-| [42-SnowCrash][42-SnowCrash] | Multiple |
+| [SnowCrash][42-SnowCrash] | Multiple |
 | [Rainfall][42-rainfall]      | Multiple |
 
 <!-- </details> -->
