@@ -1,7 +1,7 @@
 ![Langage_github]
 
 <!-- <details open> -->
-<summary align='left'> <h1>42 Cursus</h1> </summary>
+<h1>42 Cursus</h1> </summary>
 
 <!-- <details open> -->
 <h2>42 Common core</h2>
