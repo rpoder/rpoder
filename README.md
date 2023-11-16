@@ -1,3 +1,5 @@
+![Langage_github]
+
 <details open>
 <summary align='center'> <h2>42 Cursus</h2> </summary>
 
@@ -62,3 +64,8 @@
 [42-Libasm]: https://github.com/bsavinel/42-libasm
 [42-SnowCrash]: https://github.com/bsavinel/42-SnowCrash
 [42-rainfall]: https://github.com/rpoder/42-rainfall
+
+<!-- widgets --->
+
+[Langage_github]:
+	https://github-readme-stats.vercel.app/api/top-langs/?username=rpoder&hide=roff,php,html,perl&layout=compact&theme=dark&show
