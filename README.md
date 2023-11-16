@@ -1,10 +1,10 @@
 ![Langage_github]
 
-<details open>
-<summary align='center'> <h2>42 Cursus</h2> </summary>
+<!-- <details open> -->
+<summary align='left'> <h2>42 Cursus</h2> </summary>
 
-<details open>
-<summary align='center'> <h3>42 Common core</h3> </summary>
+<!-- <details open> -->
+<summary align='left'> <h3>42 Common core</h3> </summary>
 
 | Name                              | Language     |
 | --------------------------------- | ------------ |
@@ -22,12 +22,12 @@
 | [Inception][42-Inception]         | Docker       |
 | ft_transcendence                  | React/Nestjs |
 
-</details>
+<!-- </details> -->
 
-<details open>
-<summary align='center'> <h3> 42 Post Common Core </h3> </summary>
+<!-- <details open> -->
+<summary align='left'> <h3> 42 Post Common Core </h3> </summary>
 
-<details open>
+<!-- <details open> -->
 <summary> <h3>42 Cybersecurity</h3> </summary>
 
 | Name                         | Language |
@@ -35,18 +35,18 @@
 | [42-SnowCrash][42-SnowCrash] | Multiple |
 | [Rainfall][42-rainfall]      | Multiple |
 
-</details>
+<!-- </details> -->
 
-<details open>
+<!-- <details open> -->
 <summary> <h3>42 Other</h3> </summary>
 
 | Name                | Language |
 | ------------------- | -------- |
 | [Libasm][42-Libasm] | Assembly |
 
-</details>
-</details>
-</details>
+<!-- </details> -->
+<!-- </details> -->
+<!-- </details> -->
 
 <!-- Lien repo github --->
 
@@ -68,4 +68,4 @@
 <!-- widgets --->
 
 [Langage_github]:
-	https://github-readme-stats.vercel.app/api/top-langs/?username=rpoder&hide=roff,php,html,perl&layout=compact&theme=dark&show
+	https://github-readme-stats.vercel.app/api/top-langs/?username=rpoder&hide=roff,php,html,perl,objective-c&layout=compact&theme=dark&show
